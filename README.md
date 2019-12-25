@@ -1,6 +1,10 @@
 # BandwidthMonitor
 Bandwidth monitor (SNMP) written in Java as a school assignment
 
-Required libraries:
-  iReasoning SNMP API
-  JFreeChart
+Dependencies (libraries):
+  - iReasoning SNMP API
+  - JFreeChart
+  
+![Screenshot 1](Screenshot1.png)
+
+![Screenshot 2](Screenshot2.png)
