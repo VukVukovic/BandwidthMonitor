@@ -1,5 +1,5 @@
 # Bandwidth Monitor
-Bandwidth monitor (SNMP) written in Java as a school assignment
+Router bandwidth monitor (SNMP) written in Java as a school assignment
 
 Dependencies (libraries):
   - iReasoning SNMP API
